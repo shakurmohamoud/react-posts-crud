@@ -1,4 +1,4 @@
-# React CRUD App - Assignment 1
+# React Posts CRUD
 
 **Shakur Mohamoud**
 
