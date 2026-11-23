@@ -1,7 +1,5 @@
 # React Posts CRUD
 
-**Shakur Mohamoud**
-
 ## About the Project
 
 This is a React app where you can manage posts. You can view, create, edit and delete posts using a free API called JSONPlaceholder.
